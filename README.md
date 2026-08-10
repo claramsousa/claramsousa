@@ -6,7 +6,7 @@ Sou estudante de Bacharelado em Tecnologia da Informação na **UFRN** e desenvo
 
 - 🎓 Graduanda em TI pela UFRN (Previsão: 2028.2)
 - 💻 Atualmente aprimorando conhecimentos em **Desenvolvimento Back-end**
-- 🤝 Membro da equipe de coordenação do projeto ProEIDI
+- 🤝 Membro da diretoria do projeto ProEIDI
 
 ---
 

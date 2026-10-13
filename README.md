@@ -33,15 +33,6 @@ Sou estudante de Bacharelado em Tecnologia da Informação na **UFRN** e desenvo
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=claramsousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=claramsousa&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
-
 ### 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-clara-macedo-de-sousa-5086b9303/)
